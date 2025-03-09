@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextDatabase xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="texts.xsd" Version="4.24.1">
+  <Languages>
+    <Language Id="GB" />
+  </Languages>
+  <Texts>
+    <TextGroup Id="Group1" />
+    <TextGroup Id="Unsorted">
+      <Text Id="__SingleUse_DEP7" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_ADDK" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">DEVRE DISI</Translation>
+      </Text>
+      <Text Id="__SingleUse_8XW5" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Yük Durumu: &lt;value&gt; !</Translation>
+      </Text>
+      <Text Id="__SingleUse_RSHL" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_PYBB" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">PDSG FET:  &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YMAM" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_RRJE" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Deşarj FET: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_XDH7" Alignment="Left" TypographyId="comment">
+        <Translation Language="GB">1: Tetikleme mevcut.&#10;0: Tetikleme mevcut değil.</Translation>
+      </Text>
+      <Text Id="__SingleUse_1RIW" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_NPUV" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_59P1" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_WHGR" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_TNHJ" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_BCFO" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_YCTT" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_CI2T" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_LCK8" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_L6WA" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">OTINT: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_7XG3" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">UTINT: &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YNGK" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">UTD:   &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_BKC4" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">OTD:   &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_E9VL" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">UTC:   &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_SC9F" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">OTC:   &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_058N" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">SCD:  &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_QVCQ" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">OCD:  &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_WQBT" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">OCC:  &lt;value&gt;&#10;</Translation>
+      </Text>
+      <Text Id="__SingleUse_E63A" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">COV:  &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5HH6" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">CUV:  &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_5TRV" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Koruma Tetiklemesi</Translation>
+      </Text>
+      <Text Id="__SingleUse_2ZKN" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_ULJ3" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Pak+ :  &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_O2MF" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_BY1G" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre Dengeleme:&#10;                &lt;value&gt; </Translation>
+      </Text>
+      <Text Id="__SingleUse_TRJC" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_YFTD" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Şarj Akımı :&#10;&#10;        &lt;value&gt; mA</Translation>
+      </Text>
+      <Text Id="__SingleUse_XL5Y" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_JFGX" Alignment="Left" TypographyId="Default">
+        <Translation Language="GB">%&lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_E14Y" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Kapasite </Translation>
+      </Text>
+      <Text Id="__SingleUse_I57X" Alignment="Center" TypographyId="Default">
+        <Translation Language="GB">Akıllı Batarya &#10;Yönetim Sistemi</Translation>
+      </Text>
+      <Text Id="__SingleUse_TBCH" Alignment="Left" TypographyId="Small">
+        <Translation Language="GB">v1.0</Translation>
+      </Text>
+      <Text Id="__SingleUse_RZSY" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_OXH7" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Batarya :  &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_SSKZ" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_7JJD" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_J0YX" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB"></Translation>
+      </Text>
+      <Text Id="__SingleUse_5LJK" Alignment="Center" TypographyId="Small">
+        <Translation Language="GB">Batarya Sağlığı &#10;&#10;% &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TAZP" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0 </Translation>
+      </Text>
+      <Text Id="__SingleUse_26DT" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Grup 1:  &lt;value&gt; °C</Translation>
+      </Text>
+      <Text Id="__SingleUse_G7T7" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_9BEA" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Grup 4:  &lt;value&gt;  °C</Translation>
+      </Text>
+      <Text Id="__SingleUse_4421" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_4MB1" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Grup 3:  &lt;value&gt;  °C</Translation>
+      </Text>
+      <Text Id="__SingleUse_2ACW" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_268J" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Grup 2:  &lt;value&gt;  °C</Translation>
+      </Text>
+      <Text Id="__SingleUse_A3DY" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_MGNP" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 9  :   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_WD6X" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_V2VE" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 10:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_4ZWF" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_0V4C" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 11:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_PP3O" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_707Q" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 12:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_11TQ" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_CWHF" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 13:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_KRGY" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_IA1A" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 14:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_9PNT" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_WLFI" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 15:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_5FV2" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_D07F" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 16:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_Q8ZK" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_UYQK" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_0BWT" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_DQY2" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_WY9I" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_DNL7" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 8:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_M6QQ" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 7:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_8JV2" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_7IH8" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 6:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_US83" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 5:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_L8XK" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 4:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_9QTD" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 3:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_3738" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_FFIX" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">0</Translation>
+      </Text>
+      <Text Id="__SingleUse_24KQ" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 2:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_IC54" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">&lt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_NTB5" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_8OUU" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">&lt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_YSH4" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_LDN7" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">&lt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_0WMG" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">Koruma ve Sağlık</Translation>
+      </Text>
+      <Text Id="__SingleUse_KIQG" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">4</Translation>
+      </Text>
+      <Text Id="__SingleUse_LZHT" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">3</Translation>
+      </Text>
+      <Text Id="__SingleUse_4AVU" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">2</Translation>
+      </Text>
+      <Text Id="__SingleUse_P8E8" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">1</Translation>
+      </Text>
+      <Text Id="__SingleUse_KPSM" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Mevcut Fark Gerilimi:&#10;                &lt;value&gt; mV</Translation>
+      </Text>
+      <Text Id="__SingleUse_UQ1L" Alignment="Left" TypographyId="SubHeaders">
+        <Translation Language="GB">Deşarj Akımı :&#10;&#10;        &lt;value&gt; mA</Translation>
+      </Text>
+      <Text Id="__SingleUse_VNCC" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Şarj FET:    &lt;value&gt;</Translation>
+      </Text>
+      <Text Id="__SingleUse_TSGB" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">Sistem ve Akım</Translation>
+      </Text>
+      <Text Id="__SingleUse_3LIA" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB"> Sıcaklık Durumu (°C)</Translation>
+      </Text>
+      <Text Id="__SingleUse_M12G" Alignment="Left" TypographyId="cellsandothers">
+        <Translation Language="GB">Hücre 1:   &lt;value&gt; V</Translation>
+      </Text>
+      <Text Id="__SingleUse_23JT" Alignment="Left" TypographyId="MainHeaders">
+        <Translation Language="GB">Batarya Gerilimi       </Translation>
+      </Text>
+    </TextGroup>
+  </Texts>
+  <Typographies>
+    <Typography Id="Default" Font="SCHLBKB.TTF" Size="19" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Large" Font="verdana.ttf" Size="40" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Small" Font="tahomabd.ttf" Size="13" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="MainHeaders" Font="verdanab.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="cellsandothers" Font="verdana.ttf" Size="13" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="SubHeaders" Font="verdanab.ttf" Size="14" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="Typography_00" Font="timesi.ttf" Size="11" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="coverl" Font="tahomabd.ttf" Size="15" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="introcap" Font="verdanab.ttf" Size="22" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" WildcardCharacterRanges="0x20-0x7e" />
+    <Typography Id="comment" Font="verdana.ttf" Size="10" Bpp="4" IsVector="no" Direction="LTR" FallbackCharacter="?" />
+  </Typographies>
+</TextDatabase>
